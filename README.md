@@ -5,6 +5,8 @@
 </div>
 <br>
 
+![Frame 7 (15)](https://github.com/user-attachments/assets/1a07ba72-a055-4974-a60a-54ace8f1ca4b)
+
 ## 📦 Our Deliverables
 
 1. Our 5 mins Demo Video (Youtube) [🌐Watch It!]()
