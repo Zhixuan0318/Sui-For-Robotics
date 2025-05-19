@@ -9,8 +9,8 @@
 
 ## 📦 Our Deliverables
 
-1. Our 5 mins Demo Video (Youtube) [🌐Watch It!]()
-2. Our Pitch Deck (PDF Download) [🌐Read It!]()
+1. Our 5 mins Demo Video (Youtube) [🌐Watch It!](https://www.youtube.com/watch?v=xWCTDA4fxlk)
+2. Our Pitch Deck (PDF Download) [🌐Read It!](https://drive.google.com/file/d/1dL_ALNKzEV2jqKFUczPkRSH8rSlPvoT7/view?usp=sharing)
 3. Our Demo DApp (Deployed on Sui Testnet) [🌐Try It!](https://sui-for-robotics.vercel.app/)
 
 ## 👊 Problem We're Tackling
