@@ -13,6 +13,11 @@
 2. Our Pitch Deck (PDF Download) [🌐Read It!](https://drive.google.com/file/d/1dL_ALNKzEV2jqKFUczPkRSH8rSlPvoT7/view?usp=sharing)
 3. Our Demo DApp (Deployed on Sui Testnet) [🌐Try It!](https://sui-for-robotics.vercel.app/)
 
+### Extra: Code Submission Breakdown 📃
+For the convenience of the technical judges, our team has organized the code submission by breaking down the structure and providing descriptions for each folder and important files. You can access the documentation folder [🌐here](https://github.com/Zhixuan0318/Sui-For-Robotics/tree/main/doc#code-submission-breakdown) !
+
+<br>
+
 ## 👊 Problem We're Tackling
 
 ![image](https://github.com/user-attachments/assets/bb1e1d14-c1bc-46c0-95cc-9d94d03f80f5)
